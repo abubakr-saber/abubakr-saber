@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%">
+<img src="./abubakr_saber_animated.gif" width="60%" alt="Abubakr Saber">
 
 # Hi, I'm Abubakr Saber 👋
 
