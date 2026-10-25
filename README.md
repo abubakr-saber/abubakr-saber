@@ -55,7 +55,7 @@ int main() {
 - Data Structures
 - Software Development Fundamentals
 
-## 🚀 My Projects
+##  My Projects
 
 - **[C++ Problem Solving](https://github.com/abubakr-saber/Cpp-Problem-Solving)** — My C++ solutions to programming problems.
 
@@ -69,7 +69,7 @@ int main() {
 
 </div>
 
-## 🎯 My Goals
+##  My Goals
 
 - Strengthen my programming fundamentals.
 - Solve more programming problems.
